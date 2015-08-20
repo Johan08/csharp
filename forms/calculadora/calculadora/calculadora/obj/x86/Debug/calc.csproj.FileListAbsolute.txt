@@ -1,0 +1,9 @@
+C:\Users\JSM\AppData\Local\Temporary Projects\calc\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JSM\AppData\Local\Temporary Projects\calc\obj\x86\Debug\calc.Form1.resources
+C:\Users\JSM\AppData\Local\Temporary Projects\calc\obj\x86\Debug\calc.Properties.Resources.resources
+C:\Users\JSM\AppData\Local\Temporary Projects\calc\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\JSM\AppData\Local\Temporary Projects\calc\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\JSM\AppData\Local\Temporary Projects\calc\bin\Debug\calc.exe
+C:\Users\JSM\AppData\Local\Temporary Projects\calc\bin\Debug\calc.pdb
+C:\Users\JSM\AppData\Local\Temporary Projects\calc\obj\x86\Debug\calc.exe
+C:\Users\JSM\AppData\Local\Temporary Projects\calc\obj\x86\Debug\calc.pdb

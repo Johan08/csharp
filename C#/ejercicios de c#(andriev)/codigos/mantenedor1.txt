@@ -1,0 +1,185 @@
+using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Data.OleDb;
+
+class ConexionBD
+{
+    string cadenaConexion = "Provider=MSDAORA.1;Password=12345;User ID=system;Persist Security Info=True";
+    string cadenaSql;
+    OleDbConnection conexion = new OleDbConnection(cadenaConexion);
+    OleDbCommand comandoSql = new OleDbCommand("", conexion);
+    OleDbDataReader datosLeidos;
+
+    string rut, nombre, apepat, apemat, titulo;
+    int sueldo;
+    public static void Main()
+    {
+
+
+
+        ConexionBD objeto = new ConexionBD();
+        int opcion;
+        do
+        {
+            Console.Clear();
+            Console.WriteLine("MENU");
+            Console.WriteLine("\t1.- insertar");
+            Console.WriteLine("\t2.- mostrar");
+            Console.WriteLine("\t3.- buscar");
+            Console.WriteLine("\t4.- eliminar");
+            Console.WriteLine("\t5.- salir");
+            Console.WriteLine("Ingrese su opción");
+            opcion = Convert.ToInt32(Console.ReadLine());
+            switch (opcion)
+            {
+                case 1:
+                    objeto.insertar();
+                    break;
+
+                case 2:
+                    objeto.mostrar();
+                    break;
+
+                case 3:
+                    objeto.buscar();
+                    break;
+
+                case 4:
+                    objeto.eliminar();
+                    break;
+                case 5:
+
+                    break;
+                default:
+                    Console.WriteLine("ingrese opcion valida");
+                    Console.ReadKey();
+                    break;
+            }
+
+        } while (opcion != 5);
+    }
+    void insertar()
+    {
+        Console.WriteLine("ingrese rut:");
+        rut = Console.ReadLine();
+        Console.WriteLine("ingrese nombre:");
+        nombre = Console.ReadLine();
+        Console.WriteLine("ingrese apellido paterno:");
+        apepat = Console.ReadLine();
+        Console.WriteLine("ingrese apellido materno:");
+        apemat = Console.ReadLine();
+        Console.WriteLine("ingrese titulo:");
+        titulo = Console.ReadLine();
+        Console.WriteLine("ingrese sueldo:");
+        sueldo = Convert.ToInt32(Console.ReadLine());
+        cadenaSql = "insert into docente values('" + rut + "','" + nombre + "','" + apepat + "','" + apemat + "','" + titulo + "','" + Convert.ToString(sueldo) + "')";
+        comandoSql.CommandText = cadenaSql;
+        conexion.Open();
+
+        if (conexion.State == ConnectionState.Open)
+        {
+            int contadorDatos = 0;
+            contadorDatos = comandoSql.ExecuteNonQuery();
+            //ExecuteNonQuery() se utiliza para insertar, actualizar, eliminar. indica el numero de lineas que 	fueron modificadas
+            if (contadorDatos == 0)
+                Console.WriteLine("la operacion de insercion no se realizo");
+
+            else
+
+                Console.WriteLine("la operacion de insercion se realizo correctamente");
+        }
+        else
+        {
+            Console.WriteLine("la conexion no se ha podido establecer");
+        }
+        Console.ReadKey();
+
+    }
+
+    void mostrar()
+    {
+        cadenaSql = "select * from docente";
+        comandoSql.CommandText = cadenaSql;
+        conexion.Open();
+        if (conexion.State == ConnectionState.Open)
+        {
+            int contadorDatos = 0;
+            datosLeidos = comandoSql.ExecuteReader();
+            while (datosLeidos.Read())
+            {
+                Console.WriteLine("rut: {0} Nombre: {1} edad: {2} apellido paterno: {3} apellido materno {4} titulo: {5} sueldo: {6}",
+                                  datosLeidos.GetValue(0), datosLeidos.GetValue(1),
+                                  datosLeidos.GetValue(2), datosLeidos.GetValue(3),
+                                  datosLeidos.GetValue(4), datosLeidos.GetValue(5),
+                                  datosLeidos.GetValue(6));
+                contadorDatos += 1;
+            }
+            if (contadorDatos == 0)
+                Console.WriteLine("No hay datos en la tabla Productos");
+        }
+        else
+        {
+            Console.WriteLine("La conexion no se ha podido establecer");
+        }
+        Console.ReadKey();
+    }
+    void buscar()
+    {
+        Console.WriteLine("ingrese rut a buscar:");
+        rut = Console.ReadLine();
+        cadenaSql = "select * from docente where rut = '" + rut + "' ";
+        comandoSql.CommandText = cadenaSql;
+        conexion.Open();
+        if (conexion.State == ConnectionState.Open)
+        {
+            int contadorDatos = 0;
+            datosLeidos = comandoSql.ExecuteReader();
+            while (datosLeidos.Read())
+            {
+                Console.WriteLine("rut: {0} Nombre: {1} edad: {2} apellido paterno: {3} apellido materno {4} titulo: {5} sueldo: {6}",
+                                  datosLeidos.GetValue(0), datosLeidos.GetValue(1),
+                                  datosLeidos.GetValue(2), datosLeidos.GetValue(3),
+                                  datosLeidos.GetValue(4), datosLeidos.GetValue(5),
+                                  datosLeidos.GetValue(6));
+                contadorDatos += 1;
+            }
+            if (contadorDatos == 0)
+                Console.WriteLine("No hay datos en la tabla Productos");
+        }
+        else
+        {
+            Console.WriteLine("La conexion no se ha podido establecer");
+        }
+        Console.ReadKey();
+    }
+    void eliminar()
+    {
+        Console.WriteLine("ingrese rut a eliminar:");
+        rut = Console.ReadLine();
+        cadenaSql = "delete * from docente where rut = '" + rut + "' ";
+        comandoSql.CommandText = cadenaSql;
+        conexion.Open();
+
+        if (conexion.State == ConnectionState.Open)
+        {
+            int contadorDatos = 0;
+            contadorDatos = comandoSql.ExecuteNonQuery();
+            //ExecuteNonQuery() se utiliza para insertar, actualizar, eliminar. indica el numero de lineas que 	fueron modificadas
+            if (contadorDatos == 0)
+                Console.WriteLine("la operacion de insercion no se realizo");
+
+            else
+
+                Console.WriteLine("la operacion de insercion se realizo correctamente");
+        }
+        else
+        {
+            Console.WriteLine("la conexion no se ha podido establecer");
+        }
+        Console.ReadKey();
+
+
+
+    }
+}

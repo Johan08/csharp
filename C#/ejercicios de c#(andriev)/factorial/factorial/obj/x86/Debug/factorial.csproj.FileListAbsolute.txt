@@ -1,0 +1,55 @@
+c:\users\laboratorio\documents\visual studio 2010\Projects\factorial\factorial\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\laboratorio\documents\visual studio 2010\Projects\factorial\factorial\obj\x86\Debug\factorial.factorial.resources
+c:\users\laboratorio\documents\visual studio 2010\Projects\factorial\factorial\obj\x86\Debug\factorial.Form1.resources
+c:\users\laboratorio\documents\visual studio 2010\Projects\factorial\factorial\obj\x86\Debug\factorial.Properties.Resources.resources
+c:\users\laboratorio\documents\visual studio 2010\Projects\factorial\factorial\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\laboratorio\documents\visual studio 2010\Projects\factorial\factorial\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\laboratorio\documents\visual studio 2010\Projects\factorial\factorial\bin\Debug\factorial.exe
+c:\users\laboratorio\documents\visual studio 2010\Projects\factorial\factorial\bin\Debug\factorial.pdb
+c:\users\laboratorio\documents\visual studio 2010\Projects\factorial\factorial\obj\x86\Debug\factorial.exe
+c:\users\laboratorio\documents\visual studio 2010\Projects\factorial\factorial\obj\x86\Debug\factorial.pdb
+c:\users\laboratorio\documents\visual studio 2010\Projects\factorial\factorial\obj\x86\Debug\factorial.rut.resources
+C:\Users\i\Desktop\factorial\factorial\obj\x86\Debug\factorial.exe
+C:\Users\i\Desktop\factorial\factorial\obj\x86\Debug\factorial.pdb
+C:\Users\i\Desktop\factorial\factorial\bin\Debug\factorial.exe
+C:\Users\i\Desktop\factorial\factorial\bin\Debug\factorial.pdb
+C:\Users\i\Desktop\factorial\factorial\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\i\Desktop\factorial\factorial\obj\x86\Debug\factorial.factorial.resources
+C:\Users\i\Desktop\factorial\factorial\obj\x86\Debug\factorial.Form1.resources
+C:\Users\i\Desktop\factorial\factorial\obj\x86\Debug\factorial.patron.resources
+C:\Users\i\Desktop\factorial\factorial\obj\x86\Debug\factorial.Properties.Resources.resources
+C:\Users\i\Desktop\factorial\factorial\obj\x86\Debug\factorial.rut.resources
+C:\Users\i\Desktop\factorial\factorial\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\i\Desktop\factorial\factorial\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\i\Desktop\factorial\factorial\obj\x86\Debug\factorial.operacion.resources
+C:\Users\i\Desktop\factorial\factorial\obj\x86\Debug\factorial.mantenedor.resources
+C:\Users\i\Desktop\proyectos progra\factorial\factorial\obj\x86\Debug\factorial.exe
+C:\Users\i\Desktop\proyectos progra\factorial\factorial\obj\x86\Debug\factorial.pdb
+C:\Users\i\Desktop\proyectos progra\factorial\factorial\bin\Debug\factorial.exe
+C:\Users\i\Desktop\proyectos progra\factorial\factorial\bin\Debug\factorial.pdb
+C:\Users\i\Desktop\proyectos progra\factorial\factorial\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\i\Desktop\proyectos progra\factorial\factorial\obj\x86\Debug\factorial.factorial.resources
+C:\Users\i\Desktop\proyectos progra\factorial\factorial\obj\x86\Debug\factorial.Form1.resources
+C:\Users\i\Desktop\proyectos progra\factorial\factorial\obj\x86\Debug\factorial.mantenedor.resources
+C:\Users\i\Desktop\proyectos progra\factorial\factorial\obj\x86\Debug\factorial.operacion.resources
+C:\Users\i\Desktop\proyectos progra\factorial\factorial\obj\x86\Debug\factorial.patron.resources
+C:\Users\i\Desktop\proyectos progra\factorial\factorial\obj\x86\Debug\factorial.Properties.Resources.resources
+C:\Users\i\Desktop\proyectos progra\factorial\factorial\obj\x86\Debug\factorial.rut.resources
+C:\Users\i\Desktop\proyectos progra\factorial\factorial\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\i\Desktop\proyectos progra\factorial\factorial\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\HP\Desktop\consola\proyectos progra\factorial\factorial\obj\x86\Debug\factorial.exe
+C:\Users\HP\Desktop\consola\proyectos progra\factorial\factorial\obj\x86\Debug\factorial.pdb
+F:\taller de programacion 3\C#\ejercicios de c#(andriev)\factorial\factorial\obj\x86\Debug\factorial.exe
+F:\taller de programacion 3\C#\ejercicios de c#(andriev)\factorial\factorial\obj\x86\Debug\factorial.pdb
+F:\taller de programacion 3\C#\ejercicios de c#(andriev)\factorial\factorial\bin\Debug\factorial.exe
+F:\taller de programacion 3\C#\ejercicios de c#(andriev)\factorial\factorial\bin\Debug\factorial.pdb
+F:\taller de programacion 3\C#\ejercicios de c#(andriev)\factorial\factorial\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\taller de programacion 3\C#\ejercicios de c#(andriev)\factorial\factorial\obj\x86\Debug\factorial.factorial.resources
+F:\taller de programacion 3\C#\ejercicios de c#(andriev)\factorial\factorial\obj\x86\Debug\factorial.Form1.resources
+F:\taller de programacion 3\C#\ejercicios de c#(andriev)\factorial\factorial\obj\x86\Debug\factorial.mantenedor.resources
+F:\taller de programacion 3\C#\ejercicios de c#(andriev)\factorial\factorial\obj\x86\Debug\factorial.operacion.resources
+F:\taller de programacion 3\C#\ejercicios de c#(andriev)\factorial\factorial\obj\x86\Debug\factorial.patron.resources
+F:\taller de programacion 3\C#\ejercicios de c#(andriev)\factorial\factorial\obj\x86\Debug\factorial.Properties.Resources.resources
+F:\taller de programacion 3\C#\ejercicios de c#(andriev)\factorial\factorial\obj\x86\Debug\factorial.rut.resources
+F:\taller de programacion 3\C#\ejercicios de c#(andriev)\factorial\factorial\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\taller de programacion 3\C#\ejercicios de c#(andriev)\factorial\factorial\obj\x86\Debug\GenerateResource.write.1.tlog

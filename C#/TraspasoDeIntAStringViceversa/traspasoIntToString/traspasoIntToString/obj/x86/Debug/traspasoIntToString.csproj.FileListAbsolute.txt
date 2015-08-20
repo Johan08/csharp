@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\taller\traspasoIntToString\traspasoIntToString\bin\Debug\traspasoIntToString.exe
+C:\Users\HP\Desktop\taller\traspasoIntToString\traspasoIntToString\bin\Debug\traspasoIntToString.pdb
+C:\Users\HP\Desktop\taller\traspasoIntToString\traspasoIntToString\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HP\Desktop\taller\traspasoIntToString\traspasoIntToString\obj\x86\Debug\traspasoIntToString.exe
+C:\Users\HP\Desktop\taller\traspasoIntToString\traspasoIntToString\obj\x86\Debug\traspasoIntToString.pdb
+E:\taller de programacion 3\C#\traspasoStringandInt\traspasoIntToString\traspasoIntToString\obj\x86\Debug\traspasoIntToString.exe
+E:\taller de programacion 3\C#\traspasoStringandInt\traspasoIntToString\traspasoIntToString\obj\x86\Debug\traspasoIntToString.pdb
+G:\taller de programacion 3\C#\traspasoStringandInt\traspasoIntToString\traspasoIntToString\obj\x86\Debug\traspasoIntToString.exe
+G:\taller de programacion 3\C#\traspasoStringandInt\traspasoIntToString\traspasoIntToString\obj\x86\Debug\traspasoIntToString.pdb
+G:\taller de programacion 3\C#\traspasoStringandInt\traspasoIntToString\traspasoIntToString\bin\Debug\traspasoIntToString.exe
+G:\taller de programacion 3\C#\traspasoStringandInt\traspasoIntToString\traspasoIntToString\bin\Debug\traspasoIntToString.pdb
+G:\taller de programacion 3\C#\traspasoStringandInt\traspasoIntToString\traspasoIntToString\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\taller de programacion 3\C#\TraspasoDeIntAStringViceversa\traspasoIntToString\traspasoIntToString\obj\x86\Debug\traspasoIntToString.exe
+F:\taller de programacion 3\C#\TraspasoDeIntAStringViceversa\traspasoIntToString\traspasoIntToString\obj\x86\Debug\traspasoIntToString.pdb
+F:\taller de programacion 3\C#\TraspasoDeIntAStringViceversa\traspasoIntToString\traspasoIntToString\bin\Debug\traspasoIntToString.exe
+F:\taller de programacion 3\C#\TraspasoDeIntAStringViceversa\traspasoIntToString\traspasoIntToString\bin\Debug\traspasoIntToString.pdb
+F:\taller de programacion 3\C#\TraspasoDeIntAStringViceversa\traspasoIntToString\traspasoIntToString\obj\x86\Debug\ResolveAssemblyReference.cache

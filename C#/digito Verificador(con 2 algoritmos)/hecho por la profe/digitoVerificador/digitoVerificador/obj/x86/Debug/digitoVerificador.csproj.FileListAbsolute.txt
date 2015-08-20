@@ -1,0 +1,5 @@
+F:\taller de programacion 3\C#\digito Verificador(con 2 algoritmos)\hecho por la profe\digitoVerificador\digitoVerificador\bin\Debug\digitoVerificador.exe
+F:\taller de programacion 3\C#\digito Verificador(con 2 algoritmos)\hecho por la profe\digitoVerificador\digitoVerificador\bin\Debug\digitoVerificador.pdb
+F:\taller de programacion 3\C#\digito Verificador(con 2 algoritmos)\hecho por la profe\digitoVerificador\digitoVerificador\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\taller de programacion 3\C#\digito Verificador(con 2 algoritmos)\hecho por la profe\digitoVerificador\digitoVerificador\obj\x86\Debug\digitoVerificador.exe
+F:\taller de programacion 3\C#\digito Verificador(con 2 algoritmos)\hecho por la profe\digitoVerificador\digitoVerificador\obj\x86\Debug\digitoVerificador.pdb

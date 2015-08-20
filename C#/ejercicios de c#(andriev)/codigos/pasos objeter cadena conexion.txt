@@ -1,0 +1,15 @@
+crear archivo extencion udl
+
+en proveedor elegir oldb oracle provider
+
+en conexion origen de datos = ex
+
+ingresar nombre usuario y pass
+
+marcar la casilla guardar pass
+
+aceptar
+
+abrir archivo con block de notas
+
+compiar 3ra linea

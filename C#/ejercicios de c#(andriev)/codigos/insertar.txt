@@ -1,0 +1,90 @@
+using System;
+using System.Data;
+using System.Data.OleDb;
+
+namespace insertarBDApp
+{
+    class Program
+    {
+            public static void Main()
+  {
+  string cadenaConexion = "Provider=MSDAORA.1;Password=root;User ID=system;Persist Security Info=True";
+  string cadenaSql = "";
+  OleDbConnection conexion = new OleDbConnection(cadenaConexion);
+  OleDbCommand comandoSql = new OleDbCommand("", conexion);
+  string rut,nombre,apepat,apemat,titulo;
+  int sueldo;
+  
+  
+  try
+    {
+
+      Console.WriteLine("ingrese rut:");
+      rut=Console.ReadLine();
+      Console.WriteLine("ingrese nombre:");
+      nombre=Console.ReadLine();
+      Console.WriteLine("ingrese apellido paterno:");
+      apepat=Console.ReadLine();
+      Console.WriteLine("ingrese apellido materno:");
+      apemat=Console.ReadLine();
+      Console.WriteLine("ingrese titulo:");
+      titulo=Console.ReadLine();
+      Console.WriteLine("ingrese sueldo:");
+      sueldo=Convert.ToInt32( Console.ReadLine());
+        cadenaSql="insert into docente values('"+rut+"','"+nombre+"','"+apepat+"','"+apemat+"','"+titulo+"','"+Convert.ToString(sueldo)+"')";
+        comandoSql.CommandText=cadenaSql;
+      conexion.Open();
+
+      if (conexion.State==ConnectionState.Open)
+      {
+        int contadorDatos=0;
+        contadorDatos=comandoSql.ExecuteNonQuery();
+	//ExecuteNonQuery() se utiliza para insertar, actualizar, eliminar. indica el numero de lineas que 	fueron modificadas
+       if(contadorDatos==0)
+          Console.WriteLine("la operacion de insercion no se realizo");
+       
+       else
+       
+         Console.WriteLine("la operacion de insercion se realizo correctamente");
+      }
+      else
+      {
+          Console.WriteLine("la conexion no se ha podido establecer");
+      }
+     }
+  
+     catch(OleDbException ex)
+     {
+       Console.WriteLine("Se ha producido una excepcion: {0}",ex);
+     }
+     catch(Exception ex)
+     {
+       Console.WriteLine("Se ha producido una excepcion: {0}",ex);
+     }
+     finally
+     {
+       if(conexion.State==ConnectionState.Open)
+         conexion.Close();
+     }
+                Console.ReadKey();
+
+   }
+}
+
+}
+
+
+
+
+
+create table docente(
+rut    varchar(10),
+nombre varchar(15),
+apepat varchar(15),
+apemat varchar(15),
+titulo varchar(20),
+sueldo int,
+rango varchar(10)
+);
+
+insert into docente values(123,'andriev','donoso','escobar','ing',800000,'admin');

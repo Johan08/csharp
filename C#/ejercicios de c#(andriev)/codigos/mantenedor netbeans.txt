@@ -1,0 +1,210 @@
+package com.dvd.model;
+
+import java.sql.*;
+import java.util.*;
+
+/**
+*
+* @author Maru
+*/
+public class Conecta {
+
+public String bd = "mydb";
+public String login = "root";
+public String password = "root";
+public String url = "jdbc:mysql://localhost:3306/" + bd;
+public static List misDvds;
+public String campoNombre;
+public static List genres;
+
+public void conectar() throws SQLException {
+
+Connection conn = null;
+String sqlStr = "Select * from dvds;";
+System.out.println(sqlStr);
+
+try {
+Class.forName("org.gjt.mm.mysql.Driver");
+conn = DriverManager.getConnection(url, login, password);
+ResultSet rs = null;
+Statement stm = conn.createStatement(ResultSet.TYPE_SCROLL_SENSITIVE, ResultSet.CONCUR_UPDATABLE);
+if (conn != null) {
+misDvds=new ArrayList();
+System.out.println("Conexión a base de datos " + url + " ... Ok");
+rs = stm.executeQuery(sqlStr);
+while (rs.next()) {
+//System.out.println(rs.getString(1) + " " + rs.getString(2)+ " " + rs.getString(3));
+misDvds.add(new DVDItem(rs.getString(2), rs.getString(3),rs.getString(4),rs.getString(5)));
+}
+conn.close();
+}
+} catch (SQLException ex) {
+System.out.println("Hubo un problema al intentar conectarse con la base de datos " + url);
+} catch (ClassNotFoundException ex) {
+System.out.println(ex);
+}
+}
+
+    public void agregar(String title, String idGnre) 
+        throws ClassNotFoundException {
+    System.out.println("entre al agregar");    
+    Connection conn = null;
+    Statement sentencia = null;
+    String sqlStmt = "INSERT INTO DVDS VALUES(0,'" + title + "','" + idGnre + "')";
+    System.out.println(sqlStmt);
+    try {
+        Class.forName("org.gjt.mm.mysql.Driver");
+        conn = DriverManager.getConnection(url, login, password);
+        sentencia = conn.createStatement();
+        sentencia.executeUpdate(sqlStmt);
+        System.out.println("registro agregado exitosamente");
+    } catch (SQLException ex) {
+        System.out.println("error al insertar datos: " + ex);        
+    }
+    }
+    
+    public void eliminar(String nom)
+            throws ClassNotFoundException {
+    System.out.println("entre al eliminar");    
+    Connection conn = null;
+    Statement sentencia = null;
+    String sqlStmt = "delete from dvds where dvds_title='" + nom + "'";
+    System.out.println(sqlStmt);
+    
+     try {
+        Class.forName("org.gjt.mm.mysql.Driver");
+        conn = DriverManager.getConnection(url, login, password);
+        sentencia = conn.createStatement();
+        sentencia.executeUpdate(sqlStmt);
+        System.out.println("registro eliminado exitosamente");
+    } catch (SQLException ex) {
+        System.out.println("error al eliminar datos: " + ex);        
+    }
+
+}
+    public void modificar(String nombre,String campo,String ingreso) throws ClassNotFoundException, SQLException
+    {
+        System.out.println("ingreso al metodo modificar");
+        String titulo=nombre;
+        
+        campoNombre=campo;
+        
+        String query="update dvds set "+campo+"='"+ingreso+"' where dvds_title='"+titulo+"'";
+        
+        Connection conn = null;
+        
+        Class.forName("org.gjt.mm.mysql.Driver");
+        
+        conn=DriverManager.getConnection(url,login,password);
+    
+        Statement sentencia= conn.createStatement();
+    
+        try{
+            
+        sentencia.executeUpdate(query);
+        
+        System.out.println("sentencia exitosamente realizada");
+        
+        }catch(Exception e)
+        {
+            System.out.println("Error al ejecutar la sentencia en la bd");
+        }
+        
+    }
+       public boolean loginp(String usrName,String pwd) throws ClassNotFoundException, SQLException
+    {
+        
+        boolean estado=false;
+        System.out.println("usrName");
+        System.out.println("pwd");
+       
+        String sql="select * from users where login='"+usrName+"'";
+        System.out.println("sql:"+sql);
+        Connection conn = null;
+        String pwd2="";
+        Class.forName("org.gjt.mm.mysql.Driver");
+        conn=DriverManager.getConnection(url,login,password);
+        Statement sentencia= conn.createStatement();    
+        System.out.println("se ejecutara la query");
+        ResultSet rs=sentencia.executeQuery(sql);        
+        System.out.println("se ingresara al ciclo");
+        while(rs.next())
+        {
+            pwd2=rs.getString(3);
+            if(pwd2.equals(pwd))
+                    {
+                        estado=true;
+                    }
+        }
+        System.out.println("sale");
+        return estado;
+    }
+    
+    
+    
+    public boolean Categoria(String usrName) throws ClassNotFoundException, SQLException
+    {
+        boolean categoria=false;
+         System.out.println("ingreso metodo categoria");
+        String sql="select * from users where login='"+usrName+"'";
+        System.out.println(sql);
+        Connection conn = null;
+        Class.forName("org.gjt.mm.mysql.Driver");
+        conn=DriverManager.getConnection(url,login,password);
+        Statement sentencia= conn.createStatement();
+         ResultSet rs=sentencia.executeQuery(sql);
+         System.out.println("se  mete");
+        while(rs.next())
+        {
+            if(rs.getString(2).equals(usrName))
+            {
+                if(rs.getString(4).equals("adm"))
+                {
+                    categoria=true;
+                }
+            }
+        }
+        System.out.println("sale");
+        return categoria;
+    }
+    
+    public String idGenero(String id) throws ClassNotFoundException, SQLException
+{
+        String IDgenero="";
+        String sql="select genre from genero where idGenre="+id;
+        Connection conn = null;
+        Class.forName("org.gjt.mm.mysql.Driver");
+        conn=DriverManager.getConnection(url,login,password);
+        Statement sentencia= conn.createStatement();
+        ResultSet rs=sentencia.executeQuery(sql);
+        while(rs.next())
+             {
+                 if(rs.getString(1).equals(id))
+                 {
+                     IDgenero=rs.getString(2);
+                 }
+             }
+                
+        return IDgenero;
+            }
+    
+    public void listGnre() throws ClassNotFoundException, SQLException
+    {
+        
+        String sql="select * from genero";
+        Connection conn = null;
+        Class.forName("org.gjt.mm.mysql.Driver");
+        conn=DriverManager.getConnection(url,login,password);
+        Statement sentencia= conn.createStatement();
+        ResultSet rs=sentencia.executeQuery(sql);
+        while(rs.next())
+        {
+            genres.add(new genres(rs.getInt(1),rs.getString(2)));
+        }
+        
+    }
+
+    
+
+    
+}

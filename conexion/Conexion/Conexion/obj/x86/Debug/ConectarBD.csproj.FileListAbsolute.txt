@@ -1,0 +1,5 @@
+E:\taller de programacion 3\conexion\Conexion\Conexion\bin\Debug\Conexion.exe
+E:\taller de programacion 3\conexion\Conexion\Conexion\bin\Debug\Conexion.pdb
+E:\taller de programacion 3\conexion\Conexion\Conexion\obj\x86\Debug\Conexion.exe
+E:\taller de programacion 3\conexion\Conexion\Conexion\obj\x86\Debug\Conexion.pdb
+E:\taller de programacion 3\conexion\Conexion\Conexion\obj\x86\Debug\ConectarBD.csprojResolveAssemblyReference.cache

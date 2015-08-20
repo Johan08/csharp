@@ -1,0 +1,6 @@
+6-) crear un arrayList (otra clase) donde se almacenan los doctores agregados.
+
+7-) Al dar click en el botón Aceptar, se agregaran los datos del doctor al array List 
+
+8-) Agregue el menu Lsitar doctores que abrira otra ventana y mostrra todos los datos 
+    de los doctores que hayan agregado

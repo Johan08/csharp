@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\digito\ff\ff\bin\Debug\ff.exe
+C:\Users\HP\Desktop\digito\ff\ff\bin\Debug\ff.pdb
+C:\Users\HP\Desktop\digito\ff\ff\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HP\Desktop\digito\ff\ff\obj\x86\Debug\ff.exe
+C:\Users\HP\Desktop\digito\ff\ff\obj\x86\Debug\ff.pdb
+G:\taller de programacion 3\C#\digito Verificador\digito\ff\ff\obj\x86\Debug\ff.exe
+G:\taller de programacion 3\C#\digito Verificador\digito\ff\ff\obj\x86\Debug\ff.pdb
+F:\taller de programacion 3\C#\digito Verificador\digito\ff\ff\obj\x86\Debug\ff.exe
+F:\taller de programacion 3\C#\digito Verificador\digito\ff\ff\obj\x86\Debug\ff.pdb
+F:\taller de programacion 3\C#\digito Verificador\digito\ff\ff\bin\Debug\ff.exe
+F:\taller de programacion 3\C#\digito Verificador\digito\ff\ff\bin\Debug\ff.pdb
+F:\taller de programacion 3\C#\digito Verificador\digito\ff\ff\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\taller de programacion 3\C#\digito Verificador\digito\ff\ff\obj\x86\Debug\ff.exe
+E:\taller de programacion 3\C#\digito Verificador\digito\ff\ff\obj\x86\Debug\ff.pdb

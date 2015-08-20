@@ -1,0 +1,17 @@
+E:\taller de programacion 3\C#\Entradas\entradaManejodeExcepciones\entradaManejodeExcepciones\bin\Debug\entradaManejodeExcepciones.exe
+E:\taller de programacion 3\C#\Entradas\entradaManejodeExcepciones\entradaManejodeExcepciones\bin\Debug\entradaManejodeExcepciones.pdb
+E:\taller de programacion 3\C#\Entradas\entradaManejodeExcepciones\entradaManejodeExcepciones\obj\x86\Debug\entradaManejodeExcepciones.exe
+E:\taller de programacion 3\C#\Entradas\entradaManejodeExcepciones\entradaManejodeExcepciones\obj\x86\Debug\entradaManejodeExcepciones.pdb
+E:\taller de programacion 3\C#\Entradas\entradaManejodeExcepciones\entradaManejodeExcepciones\obj\x86\Debug\entradaManejodeExcepciones.csprojResolveAssemblyReference.cache
+G:\taller de programacion 3\C#\Entradas\entradaManejodeExcepciones\entradaManejodeExcepciones\obj\x86\Debug\entradaManejodeExcepciones.exe
+G:\taller de programacion 3\C#\Entradas\entradaManejodeExcepciones\entradaManejodeExcepciones\obj\x86\Debug\entradaManejodeExcepciones.pdb
+G:\taller de programacion 3\C#\Entradas\entradaManejodeExcepciones\entradaManejodeExcepciones\bin\Debug\entradaManejodeExcepciones.exe
+G:\taller de programacion 3\C#\Entradas\entradaManejodeExcepciones\entradaManejodeExcepciones\bin\Debug\entradaManejodeExcepciones.pdb
+G:\taller de programacion 3\C#\Entradas\entradaManejodeExcepciones\entradaManejodeExcepciones\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\taller de programacion 3\C#\Entradas\entradaManejodeExcepciones\entradaManejodeExcepciones\obj\x86\Debug\entradaManejodeExcepciones.exe
+F:\taller de programacion 3\C#\Entradas\entradaManejodeExcepciones\entradaManejodeExcepciones\obj\x86\Debug\entradaManejodeExcepciones.pdb
+F:\taller de programacion 3\C#\Entradas\entradaManejodeExcepciones\entradaManejodeExcepciones\bin\Debug\entradaManejodeExcepciones.exe
+F:\taller de programacion 3\C#\Entradas\entradaManejodeExcepciones\entradaManejodeExcepciones\bin\Debug\entradaManejodeExcepciones.pdb
+F:\taller de programacion 3\C#\Entradas\entradaManejodeExcepciones\entradaManejodeExcepciones\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\taller de programacion 3\C#\Entradas(manejo de try y catch con el ingreso de numeros negativos)\entradaManejodeExcepciones\entradaManejodeExcepciones\obj\x86\Debug\entradaManejodeExcepciones.exe
+F:\taller de programacion 3\C#\Entradas(manejo de try y catch con el ingreso de numeros negativos)\entradaManejodeExcepciones\entradaManejodeExcepciones\obj\x86\Debug\entradaManejodeExcepciones.pdb

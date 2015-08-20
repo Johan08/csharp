@@ -1,0 +1,28 @@
+se desea implementar un sistema de loteria en que cada persona escoge una secuencia de 6 numeros y se le asigna un ID correlativo
+de modo tal que dicho ID es el comprobante del numero escogido por la persona. 
+
+
+a-) Vender numeros de loteria(agregar un item)
+
+b-) Mostrar todos los numeros jugados 
+
+c-) Buscar los numeros jugados en base a un ID o buscar el ID en base a los numeros jugados
+
+Utilizar una clase llamada LOTERIA para la estructura y una clase llamada GESTION_LOTERIA que permita desplegar un menu que le permitira 
+realizar las acciones realizadas 
+
+menu
+
+1- vender_boleto
+2- mostrar todos los boletos
+3- buscar por el id o numero
+4- salir
+
+foreach(Object obj in boletos)
+            {
+
+                Console.Write("{0}", obj);
+                Console.WriteLine();
+
+
+            }

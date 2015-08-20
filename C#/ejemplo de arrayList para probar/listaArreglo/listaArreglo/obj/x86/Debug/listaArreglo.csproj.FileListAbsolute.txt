@@ -1,0 +1,9 @@
+E:\taller de programacion 3\C#\arrayList\listaArreglo\listaArreglo\bin\Debug\listaArreglo.exe
+E:\taller de programacion 3\C#\arrayList\listaArreglo\listaArreglo\bin\Debug\listaArreglo.pdb
+E:\taller de programacion 3\C#\arrayList\listaArreglo\listaArreglo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\taller de programacion 3\C#\arrayList\listaArreglo\listaArreglo\obj\x86\Debug\listaArreglo.exe
+E:\taller de programacion 3\C#\arrayList\listaArreglo\listaArreglo\obj\x86\Debug\listaArreglo.pdb
+F:\taller de programacion 3\C#\arrayList\listaArreglo\listaArreglo\obj\x86\Debug\listaArreglo.exe
+F:\taller de programacion 3\C#\arrayList\listaArreglo\listaArreglo\obj\x86\Debug\listaArreglo.pdb
+F:\taller de programacion 3\C#\ejemplo de arrayList para probar\listaArreglo\listaArreglo\obj\x86\Debug\listaArreglo.exe
+F:\taller de programacion 3\C#\ejemplo de arrayList para probar\listaArreglo\listaArreglo\obj\x86\Debug\listaArreglo.pdb

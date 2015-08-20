@@ -1,0 +1,13 @@
+E:\taller de programacion 3\C#\arrayAplicacion\tareaProgra\tareaProgra\tareaProgra\bin\Debug\tareaProgra.exe
+E:\taller de programacion 3\C#\arrayAplicacion\tareaProgra\tareaProgra\tareaProgra\bin\Debug\tareaProgra.pdb
+E:\taller de programacion 3\C#\arrayAplicacion\tareaProgra\tareaProgra\tareaProgra\obj\x86\Debug\tareaProgra.exe
+E:\taller de programacion 3\C#\arrayAplicacion\tareaProgra\tareaProgra\tareaProgra\obj\x86\Debug\tareaProgra.pdb
+F:\taller de programacion 3\C#\arrayAplicacion\tareaProgra\tareaProgra\tareaProgra\obj\x86\Debug\tareaProgra.exe
+F:\taller de programacion 3\C#\arrayAplicacion\tareaProgra\tareaProgra\tareaProgra\obj\x86\Debug\tareaProgra.pdb
+F:\taller de programacion 3\C#\arrayAplicacion\tarea de Progra(se hace con la guia se encuentra en intranet)\tareaProgra\tareaProgra\obj\x86\Debug\tareaProgra.exe
+F:\taller de programacion 3\C#\arrayAplicacion\tarea de Progra(se hace con la guia se encuentra en intranet)\tareaProgra\tareaProgra\obj\x86\Debug\tareaProgra.pdb
+F:\taller de programacion 3\C#\array de dos dimensiones(tarea de vents y ejemplo)\tarea de Progra(se hace con la guia se encuentra en intranet)\tareaProgra\tareaProgra\obj\x86\Debug\tareaProgra.exe
+F:\taller de programacion 3\C#\array de dos dimensiones(tarea de vents y ejemplo)\tarea de Progra(se hace con la guia se encuentra en intranet)\tareaProgra\tareaProgra\obj\x86\Debug\tareaProgra.pdb
+F:\taller de programacion 3\C#\array de dos dimensiones(tarea de vents y ejemplo)\tarea de Progra(se hace con la guia se encuentra en intranet)\tareaProgra\tareaProgra\bin\Debug\tareaProgra.exe
+F:\taller de programacion 3\C#\array de dos dimensiones(tarea de vents y ejemplo)\tarea de Progra(se hace con la guia se encuentra en intranet)\tareaProgra\tareaProgra\bin\Debug\tareaProgra.pdb
+F:\taller de programacion 3\C#\array de dos dimensiones(tarea de vents y ejemplo)\tarea de Progra(se hace con la guia se encuentra en intranet)\tareaProgra\tareaProgra\obj\x86\Debug\ResolveAssemblyReference.cache

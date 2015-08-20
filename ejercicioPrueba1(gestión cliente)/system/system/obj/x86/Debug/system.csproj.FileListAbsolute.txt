@@ -1,0 +1,5 @@
+F:\taller de programacion 3\ejercicioPrueba1\system\system\bin\Debug\system.exe
+F:\taller de programacion 3\ejercicioPrueba1\system\system\bin\Debug\system.pdb
+F:\taller de programacion 3\ejercicioPrueba1\system\system\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\taller de programacion 3\ejercicioPrueba1\system\system\obj\x86\Debug\system.exe
+F:\taller de programacion 3\ejercicioPrueba1\system\system\obj\x86\Debug\system.pdb

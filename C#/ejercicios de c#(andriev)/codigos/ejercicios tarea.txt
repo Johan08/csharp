@@ -1,0 +1,654 @@
+3 Escribir un programa en C# que calcule el número de horas, minutos y segundos que hay en x segundos, 
+se debe ingresar por teclado  el valor de x.
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace tareas
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int i,hora,min,resto;
+
+            
+            
+            try
+            {
+
+                Console.WriteLine("ingrese segundos:");
+                i = Convert.ToInt32(Console.ReadLine());
+                
+                hora = i / 3600;
+                resto = i % 3600;
+                min = resto / 60;
+                resto = i % 60;
+
+
+
+
+                Console.WriteLine("los segundo equivalen a {0}:{1}:{2} horas",hora, min, resto);
+          
+                     
+               
+
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
+
+
+
+            Console.ReadKey();
+        }
+    }
+}
+
+
+
+
+
+
+5 Escribir un programa en C# que calcule el equivalente en pies de una longitud de x metros,  
+se debe ingresar por teclado  el valor de x.
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace tareas
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            float metro;
+            float pies;
+         
+            
+            try
+            {
+
+                Console.WriteLine("ingrese metros:");
+                metro = float.Parse(Console.ReadLine());
+
+                pies = metro * 3.2808;
+
+                Console.WriteLine("los metros equivalen a {0} pies",pies);
+                 
+                     
+             }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
+
+            Console.ReadKey();
+        }
+    }
+}
+
+
+
+
+1 Escribir un programa en C# que calcule la hipotenusa de un triángulo rectángulo, 
+se debe ingresar por teclado  los valores: cateto1 y cateto2.
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+
+namespace tareas
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int cat1,cat2,suma;
+            double hipotenusa;
+         
+            
+            try
+            {
+
+                Console.WriteLine("ingrese cateto 1:");
+                cat1 = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("ingrese cateto 2:");
+                cat2 = Convert.ToInt32(Console.ReadLine());
+
+                cat1 *= cat1;
+                cat2 *= cat2;
+                suma = cat1 + cat2;
+                hipotenusa = System.Math.Sqrt(suma);
+
+
+                Console.WriteLine("la hipotenusa es {0}",hipotenusa);
+                 
+                     
+             }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
+
+            Console.ReadKey();
+        }
+    }
+}
+
+
+
+
+2 Escribir un programa en C# que calcula el equivalente en grados Fahrenheit o Celsius , 
+se debe ingresar por teclado  los valores: Temperatura1 en Fahrenheit yTemperatura2  en º Celsius
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+
+namespace tareas
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            float tcel,tfah,tcel2,tfah2;
+            
+         
+            
+            try
+            {
+
+                Console.WriteLine("ingrese temperatura en grados celcius:");
+                tcel = float.Parse(Console.ReadLine());
+                Console.WriteLine("ingrese temperatura en grados Fahrenheit:");
+                tfah = float.Parse(Console.ReadLine());
+
+                tcel2 = (tcel * 9 / 5) + 32;
+                tfah2 = (tfah - 32) * 5 / 9;
+
+
+
+                Console.WriteLine("{0} grados celcius equivalen a {1} grados Fahrenheit ", tcel, tcel2);
+                Console.WriteLine("{0} grados Fahrenheit equivalen a {1} grados celcius ", tfah, tfah2);
+                 
+                     
+             }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
+
+            Console.ReadKey();
+        }
+    }
+}
+
+
+
+4 Escribir un programa en C# que calcule el capital producido por un capital de X de pesos, 
+al cabo de un año depositado a un interés del 2%,  se debe ingresar por teclado  el valor de x.
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace tareas
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int i;
+            double interes, dinero;
+            
+
+
+            try
+            {
+
+                Console.WriteLine("ingrese dinero:");
+                dinero = Convert.ToInt32(Console.ReadLine());
+
+                for (i = 0; i < 12; i++){
+
+                    interes = dinero * 2 / 100;
+                    dinero += interes;
+
+                }
+
+
+                Console.WriteLine("en un año su dinero sera {0} pesos", Math.Round(dinero, 2));
+
+
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
+
+            Console.ReadKey();
+        }
+    }
+}
+
+
+
+6 Escribir un programa en C# que permita ingresar valores desde el teclado y almacenarlos en  un arreglo de 20 posiciones, 
+posteriormente ordenar el arreglo y desplegarlo.
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace tareas
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int i,j,aux;
+            int[] arreglo = new int[20];
+            try
+            {
+                for (i = 0; i < arreglo.Length; i++)
+                {
+                    Console.WriteLine("ingrese numero[{0}].-:", i + 1);
+                    arreglo[i] = Convert.ToInt32(Console.ReadLine());
+                }
+
+               for (i = 0; i < arreglo.Length; i++)
+                {
+                    for (j = i+1; j < arreglo.Length; j++)
+                    {
+                        if (arreglo[j] < arreglo[i])
+                        {
+                            aux = arreglo[i];
+                            arreglo[i] = arreglo[j];
+                            arreglo[j] = aux;
+                        }
+                        
+
+                    }
+                }
+
+                //otro metodo orden menor a mayor
+                //Array.Sort(arreglo);
+
+                for (i = 0; i < arreglo.Length; i++)
+                {
+
+                    Console.WriteLine("{0}",arreglo[i]);
+                }
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
+
+            Console.ReadKey();
+        }
+    }
+}
+
+
+7 Escribir un programa en C# que permita ingresar valores desde el teclado y almacenarlos un arreglo de 12 posiciones, 
+posteriormente determinar el menor valor que contiene y cuantas veces está en el arreglo.
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace tareas
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int i,j,aux,cont=1;
+            int[] arreglo = new int[12];
+            try
+            {
+                for (i = 0; i < arreglo.Length; i++)
+                {
+                    Console.WriteLine("ingrese numero[{0}].-:", i + 1);
+                    arreglo[i] = Convert.ToInt32(Console.ReadLine());
+                }
+
+               for (i = 0; i < arreglo.Length; i++)
+                {
+                    for (j = i+1; j < arreglo.Length; j++)
+                    {
+                        if (arreglo[j] < arreglo[i])
+                        {
+                            aux = arreglo[i];
+                            arreglo[i] = arreglo[j];
+                            arreglo[j] = aux;
+                        }                       
+
+                    }
+                }
+               
+               for (i = 1; i < arreglo.Length; i++) 
+               {
+                   if (arreglo[i] == arreglo[0])
+                   {
+                       cont += 1;
+                   }
+                   else break;
+               }              
+
+                    Console.WriteLine("el menor valor es {0} y se repite {1} veces", arreglo[0],cont);
+                
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
+
+            Console.ReadKey();
+        }
+    }
+}
+
+
+
+8 Un instituto posee la siguiente información:  código, nombre, edad, sexo y estado civil.  
+Escriba algoritmo que entregue la siguiente estadística: cantidad de alumnos del instituto, 
+estadística por sexo, cantidad de alumnos solteros y promedio de edad de los alumnos 
+(el fin del ingreso es un código igual a cero).
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace estructuraCs
+{
+    class Program
+    {
+        public struct persona
+        {
+            public int codigo;
+            public string nombre;
+            public int edad;
+            public char sexo;
+            public string estadocivil;
+        }
+        static void Main(string[] args)
+        {
+
+            int i, cont = 0, masc = 0, fem = 0, sum = 0, contsol = 0,arr=1;
+            char sexo = 'm';
+            string estado = "soltero";
+
+
+            //persona[] datosPersona = new persona[arr];
+            
+            try
+            {
+
+                for (i = 0; i < arr; i++)
+                {
+                    persona[] datosPersona = new persona[arr];
+                    Console.WriteLine("ingrese codigo:");
+                    datosPersona[i].codigo = Convert.ToInt32(Console.ReadLine());
+                    if (datosPersona[i].codigo == 0)
+                    {
+                        break;
+                    }
+
+                    Console.WriteLine("ingrese nombre:");
+                    datosPersona[i].nombre = Console.ReadLine();
+
+                    Console.WriteLine("ingrese edad:");
+                    datosPersona[i].edad = Convert.ToInt32(Console.ReadLine());
+
+                    sum += datosPersona[i].edad;
+
+                    Console.WriteLine("ingrese sexo:");
+                    datosPersona[i].sexo = char.Parse(Console.ReadLine());
+
+                    if (datosPersona[i].sexo == sexo)
+                    {
+                        masc += 1;
+                    }
+                    else
+                        fem += 1;
+
+
+                    Console.WriteLine("ingrese estado civil:");
+                    datosPersona[i].estadocivil = Console.ReadLine();
+
+                    if (datosPersona[i].estadocivil == estado)
+                    {
+                        contsol += 1;
+                    }
+
+                    cont += 1;
+                    arr += 1;
+                    
+                }
+
+                    Console.WriteLine("la cantidad de alumnos es {0}", cont);
+                    Console.WriteLine("la cantidad de alumnos de sexo masculino es {0} y femeninos es {1}", masc, fem);
+                    Console.WriteLine("la cantidad de alumnos solteros es {0}", contsol);
+                    Console.WriteLine("el promedio de edad de los alumnos es {0}", sum / cont);
+                
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
+            Console.ReadKey();
+        }
+    }
+}
+
+
+
+9 Se realizó una encuesta entre los asistentes a un concierto en el teatro municipal, 
+donde se les preguntó: la edad, cantidad de veces asistidas en el año y su sexo.  
+Determinar: porcentaje de varones asistentes al concierto 
+y cantidad de mujeres que han asistido mas de 5 veces en el año.
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace estructuraCs
+{
+    class Program
+    {
+        public struct persona
+        {
+            public int edad;
+            public char sexo;
+            public int veces;
+        }
+        static void Main(string[] args)
+        {
+
+            int i=0, cont = 0, masc = 0, contv = 0, arr = 1;
+            char sexo = 'f';
+            char resp = 'y';
+            
+                                  
+            try
+            {
+                do
+                {
+                                        
+                        persona[] datosPersona = new persona[arr];
+
+                        Console.WriteLine("ingrese edad:");
+                        datosPersona[i].edad = Convert.ToInt32(Console.ReadLine());
+
+                        
+                        Console.WriteLine("ingrese cantidad de veces que a asistido en el año:");
+                        datosPersona[i].veces = Convert.ToInt32(Console.ReadLine());
+
+                        Console.WriteLine("ingrese sexo m/f:");
+                        datosPersona[i].sexo = char.Parse(Console.ReadLine());
+
+                        if (datosPersona[i].sexo == sexo)
+                        {
+                            if (datosPersona[i].veces > 5)
+                            {
+                                contv += 1;
+                            }
+
+                        }
+                        else
+                            masc += 1;
+
+                        cont += 1;
+                        arr += 1;
+
+                    
+                    Console.WriteLine("continuar ingresando datos y/n:");
+                    resp = char.Parse(Console.ReadLine());
+
+                    i += 1;
+                    
+                } while (resp == 'y');
+
+
+                    Console.WriteLine("el porcentaje de varones es {0}%", masc*100/cont);
+                    Console.WriteLine("la cantidad de mujeres que han asistido mas de 5 veces en el año son {0}",contv);
+                                   
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
+            Console.ReadKey();
+        }
+    }
+}
+
+
+
+10.	Ingresar el código del vendedor, el valor de la venta y el nombre del artículo vendido, 
+para cien ventas realizadas por los tres vendedores de una empresa.  
+Luego de finalizado el ingreso se debe mostrar el nombre del artículo mas caro,
+ el código del vendedor que ha realizado más ventas (cantidad) y el del vendedor que ha realizado mayor venta (monto).
+
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace estructuraCs
+{
+    class Program
+    {
+        public struct ventas
+        {
+            public int codigo;
+            public int valorventa;
+            public string producto;
+        }
+        static void Main(string[] args)
+        {
+            ventas[] datosVenta = new ventas[100];
+
+            int i=0, mayor = 0;
+            int codigo1 = 000, codigo2 = 111, codigo3 = 222;
+            int cont1=0,cont2=0,cont3=0;
+            int monto1=0,monto2=0,monto3=0;
+                       
+                                  
+            try
+            {
+                for (i = 0; i < datosVenta.Length; i++)
+                {
+                    Console.WriteLine("ingrese codigo:");
+                    datosVenta[i].codigo = Convert.ToInt32(Console.ReadLine());
+
+                    Console.WriteLine("ingrese valor venta:");
+                    datosVenta[i].valorventa = Convert.ToInt32(Console.ReadLine());
+
+                    Console.WriteLine("ingrese nombre articulo:");
+                    datosVenta[i].producto = Convert.ToString(Console.ReadLine());
+
+                    if(datosVenta[i].codigo == codigo1){
+                        cont1+=1;
+                        monto1 += datosVenta[i].valorventa;}
+                        else if (datosVenta[i].codigo == codigo2){
+                            cont2+=1;
+                        monto2 += datosVenta[i].valorventa;
+                        }
+                    else
+                        cont3+=1;
+                        monto3 += datosVenta[i].valorventa;
+                                       
+                    if(datosVenta[i].valorventa > mayor){
+                        mayor = datosVenta[i].valorventa;
+                    }
+
+                    Console.WriteLine("el valor del articulo mas caro es {0}",mayor);
+                     
+                    //buscar al vendedor que vendio mas
+                    if (cont1 > cont2){
+                        if(cont1 > cont3){
+                            Console.WriteLine("el codigo del vendedor que mas vendio es {0}",codigo1 );
+                        }
+                        else { 
+                            Console.WriteLine("el codigo del vendedor que mas vendio es {0}",codigo3 );
+                        }
+                    if(cont2 > cont3){
+                    Console.WriteLine("el codigo del vendedor que mas vendio es {0}",codigo2 );
+                    }
+                    else 
+                            Console.WriteLine("el codigo del vendedor que mas vendio es {0}",codigo3 );
+                    }
+
+                    //buscar vendedor que vendio mayor monto
+                    if (monto1 > monto2){
+                        if(monto1 > monto3){
+                            Console.WriteLine("el codigo del vendedor que vendio un mayor monto es {0}",codigo1 );
+                        }
+                        else { 
+                            Console.WriteLine("el codigo del vendedor que vendio un mayor monto es {0}",codigo3 );
+                        }
+                     if(monto2 > monto3){
+                    Console.WriteLine("el codigo del vendedor que vendio un mayor monto es {0}",codigo2 );
+                    }
+                    else 
+                        Console.WriteLine("el codigo del vendedor que vendio un mayor monto es {0}",codigo3 );
+                    }
+                }            
+
+                               
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
+            Console.ReadKey();
+        }
+    }
+}

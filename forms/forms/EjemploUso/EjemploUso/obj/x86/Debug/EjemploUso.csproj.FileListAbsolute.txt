@@ -1,0 +1,11 @@
+C:\Users\JSM\AppData\Local\Temporary Projects\EjemploUso\bin\Debug\EjemploUso.exe
+C:\Users\JSM\AppData\Local\Temporary Projects\EjemploUso\bin\Debug\EjemploUso.pdb
+C:\Users\JSM\AppData\Local\Temporary Projects\EjemploUso\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JSM\AppData\Local\Temporary Projects\EjemploUso\obj\x86\Debug\EjemploUso.Properties.Resources.resources
+C:\Users\JSM\AppData\Local\Temporary Projects\EjemploUso\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\JSM\AppData\Local\Temporary Projects\EjemploUso\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\JSM\AppData\Local\Temporary Projects\EjemploUso\obj\x86\Debug\EjemploUso.exe
+C:\Users\JSM\AppData\Local\Temporary Projects\EjemploUso\obj\x86\Debug\EjemploUso.pdb
+C:\Users\JSM\AppData\Local\Temporary Projects\EjemploUso\obj\x86\Debug\EjemploUso.Ejemplo.resources
+C:\Users\JSM\Desktop\forms\EjemploUso\EjemploUso\obj\x86\Debug\EjemploUso.exe
+C:\Users\JSM\Desktop\forms\EjemploUso\EjemploUso\obj\x86\Debug\EjemploUso.pdb

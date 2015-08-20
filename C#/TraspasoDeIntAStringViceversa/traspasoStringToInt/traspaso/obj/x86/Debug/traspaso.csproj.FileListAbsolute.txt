@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\taller\traspaso\traspaso\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HP\Desktop\taller\traspaso\traspaso\bin\Debug\traspaso.exe
+C:\Users\HP\Desktop\taller\traspaso\traspaso\bin\Debug\traspaso.pdb
+C:\Users\HP\Desktop\taller\traspaso\traspaso\obj\x86\Debug\traspaso.exe
+C:\Users\HP\Desktop\taller\traspaso\traspaso\obj\x86\Debug\traspaso.pdb
+G:\taller de programacion 3\C#\traspasoStringandInt\traspaso\traspaso\obj\x86\Debug\traspaso.exe
+G:\taller de programacion 3\C#\traspasoStringandInt\traspaso\traspaso\obj\x86\Debug\traspaso.pdb

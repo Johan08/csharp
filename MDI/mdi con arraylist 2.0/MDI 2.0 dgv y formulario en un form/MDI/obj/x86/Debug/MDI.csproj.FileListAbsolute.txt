@@ -1,0 +1,24 @@
+C:\Users\JSM\AppData\Local\Temporary Projects\MDI\bin\Debug\MDI.exe
+C:\Users\JSM\AppData\Local\Temporary Projects\MDI\bin\Debug\MDI.pdb
+C:\Users\JSM\AppData\Local\Temporary Projects\MDI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JSM\AppData\Local\Temporary Projects\MDI\obj\x86\Debug\MDI.Doctores.resources
+C:\Users\JSM\AppData\Local\Temporary Projects\MDI\obj\x86\Debug\MDI.Form1.resources
+C:\Users\JSM\AppData\Local\Temporary Projects\MDI\obj\x86\Debug\MDI.Properties.Resources.resources
+C:\Users\JSM\AppData\Local\Temporary Projects\MDI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\JSM\AppData\Local\Temporary Projects\MDI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\JSM\AppData\Local\Temporary Projects\MDI\obj\x86\Debug\MDI.exe
+C:\Users\JSM\AppData\Local\Temporary Projects\MDI\obj\x86\Debug\MDI.pdb
+F:\taller de programacion 3\MDI\MDI\MDI\obj\x86\Debug\MDI.exe
+F:\taller de programacion 3\MDI\MDI\MDI\obj\x86\Debug\MDI.pdb
+C:\Users\JSM\Desktop\MDI\MDI\obj\x86\Debug\MDI.exe
+C:\Users\JSM\Desktop\MDI\MDI\obj\x86\Debug\MDI.pdb
+C:\Users\JSM\Desktop\MDI\MDI\bin\Debug\MDI.exe
+C:\Users\JSM\Desktop\MDI\MDI\bin\Debug\MDI.pdb
+C:\Users\JSM\Desktop\MDI\MDI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JSM\Desktop\MDI\MDI\obj\x86\Debug\MDI.Doctores.resources
+C:\Users\JSM\Desktop\MDI\MDI\obj\x86\Debug\MDI.Form1.resources
+C:\Users\JSM\Desktop\MDI\MDI\obj\x86\Debug\MDI.Properties.Resources.resources
+C:\Users\JSM\Desktop\MDI\MDI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\JSM\Desktop\MDI\MDI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\JSM\Desktop\MDI 2.0 dgv y formulario en un form\MDI\obj\x86\Debug\MDI.exe
+C:\Users\JSM\Desktop\MDI 2.0 dgv y formulario en un form\MDI\obj\x86\Debug\MDI.pdb

@@ -1,0 +1,232 @@
+Evaluación 1 - prueba práctica 34% -> 3 de octubre
+
+
+Evaluación 2 - prueba práctica 33% -> 21 de noviembre
+
+
+Evaluación 3 - prueba práctica 33% -> 19 de diciembre
+
+
+
+
+CONTENIDOS
+
+
+1- Conceptos generales de c#.net 
+
+
+   Paradigma 0.0.
+
+   Ejercicios de consola .net
+
+
+2- Formularios C#
+
+-Formularios simples
+
+-MDI
+
+
+3- Aplicaciones gráficas con conexión a BD 
+
+- Clases de conexión 
+
+-BD sql server 
+
+- Aplicaciones de gestión de datos. 
+
+
+
+
+JUEVES LOS CUALES VAMOS A TENER 4 HORAS
+
+
+14 DE NOVIEMBRE
+
+21 DE NOVIEMBRE
+
+28 DE NOVIEMBRE
+
+5 DE DICIEMBRE
+
+12 DE DICIEMBRE
+
+19 DE DICIEMBRE
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------
+
+PROGRAMACIÓN ORIENTADA A OBJETOS. 
+
+
+1-) Objetos y Clases
+
+2-) Herencias 
+
+3-) Abstracción 
+
+4-) Encapsulación o ocultamiento.
+
+5-) Polimorfismo.
+
+
+
+
+
+FIGURA
+
+ATRIBUTOS
+
+# lado : float -> atributo protegido solo lo puede ver as clases y subclases
+
+METODOS
+
++ calcularArea(): float
+
+
+
+
+
+CUADRADO
+
+ATRIBUTOS
+
+
+
+METODOS
+
+<< override >> -> cambia la implementación del metodo
++calcularArea(): float -> ( con signo + public y con - private y con # protect y si no aparece nada o con * fiendly visibles en el package. )
+
+
+
+TRAINGULO
+
+ATRIBUTOS:
+
+- altura: float
+
+METODOS:
+
+<< override >>
++ calcularArea(): float.
+
+
+
+TIPS:
+
+1-) HERENCIA
+    
+Se usan :
+
+2-) POLIMORFISMO 
+
+-Se usa virtual en el metodo de la clase base 
+
+-Se usa override en el metodo de la clase derivada o hija
+
+3-) Escritura por consola
+
+console.writeline 
+console.write
+
+4-) Para evitar que la consola se cierre agregar al final
+
+Console.ReadKey().
+
+
+
+Agregue la clase derivada de figura
+
+"circulo" y modifique el cálculo del area, considerando que lado es equivalente al radio
+
+area: pi * radio al cuadrado 
+
+circulo
+
+atributo
+
+radio(lado)
+pi
+
+metodos 
+
+calculo del area 
+
+pi * radio al cuadrado  
+
+
+agregue en la clase figura el metodo calcularPermetro() y agreguelo a las clases derivadas, considerando los calculos en forma individual en cada caso
+
+agregue las vistas correspondientes en el programa principal.
+
+
+Tarea:
+
+Investigar como transformar un numero a string y viceversa
+desarrolar un ejemplo en c# que realice las conversiones.
+
+
+
+ //Lectura entrada estandar 
+ //Console.readLine()
+
+string leido = Console.readLine()
+
+para convertir a numero
+
+a-) int n = Convert.toInt32(leido) ;
+
+Que pasa si se ingresa algo que no es numero
+
+-> EXCEPCIÓN 
+
+-> evitar que se caiga el programa usando try- catch
+
+
+try se escriben las intrucciones susceptibles a producir un error
+en el programa 
+catch 
+captura esas excepciones y toma las acciones que se programen 
+
+
+Arreglos
+
+Se trabajan como objetos, por lo tanto se inicializan en tamaño con un new
+
+int A = new int[5] ;
+// las celdas
+// parte en 0
+
+
+EJERCICIOS
+
+1- Modifique el programa de modo que el arreglo acepte solo numeros negativos.
+
+2- Realice un ejemplo similar pero utilizando un arreglos de char tamaño 5. Controle que solo se ingresen 
+caracteres distintos de letras mayusculas o minuculas.
+
+http://msdn.microsoft.com/es-es/library/5011f09h.aspx
+
+
+
+implementar el algoritmo 2 para calcular el digito verificador
+
+222.222.222-2
+123 456 789
+
+
+c#
+
+2 tipo de formularios
+
+1-) INDEPENDIENTE
+2-) MDI
+1-) Se trabaja como ventanas distintas e independiente 
+2-) Se trabaja como formulario base sobre que ponen otras ventanas

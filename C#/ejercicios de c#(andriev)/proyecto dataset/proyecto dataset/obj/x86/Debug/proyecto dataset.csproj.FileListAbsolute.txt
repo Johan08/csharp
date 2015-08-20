@@ -1,0 +1,37 @@
+C:\Users\Laboratorio\Documents\Visual Studio 2010\Projects\proyecto dataset\proyecto dataset\bin\Debug\proyecto dataset.exe.config
+C:\Users\Laboratorio\Documents\Visual Studio 2010\Projects\proyecto dataset\proyecto dataset\bin\Debug\proyecto dataset.exe
+C:\Users\Laboratorio\Documents\Visual Studio 2010\Projects\proyecto dataset\proyecto dataset\bin\Debug\proyecto dataset.pdb
+C:\Users\Laboratorio\Documents\Visual Studio 2010\Projects\proyecto dataset\proyecto dataset\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Laboratorio\Documents\Visual Studio 2010\Projects\proyecto dataset\proyecto dataset\obj\x86\Debug\proyecto_dataset.Form1.resources
+C:\Users\Laboratorio\Documents\Visual Studio 2010\Projects\proyecto dataset\proyecto dataset\obj\x86\Debug\proyecto_dataset.Form2.resources
+C:\Users\Laboratorio\Documents\Visual Studio 2010\Projects\proyecto dataset\proyecto dataset\obj\x86\Debug\proyecto_dataset.Properties.Resources.resources
+C:\Users\Laboratorio\Documents\Visual Studio 2010\Projects\proyecto dataset\proyecto dataset\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Laboratorio\Documents\Visual Studio 2010\Projects\proyecto dataset\proyecto dataset\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Laboratorio\Documents\Visual Studio 2010\Projects\proyecto dataset\proyecto dataset\obj\x86\Debug\RdlCompile.cache
+C:\Users\Laboratorio\Documents\Visual Studio 2010\Projects\proyecto dataset\proyecto dataset\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Laboratorio\Documents\Visual Studio 2010\Projects\proyecto dataset\proyecto dataset\obj\x86\Debug\proyecto dataset.exe
+C:\Users\Laboratorio\Documents\Visual Studio 2010\Projects\proyecto dataset\proyecto dataset\obj\x86\Debug\proyecto dataset.pdb
+C:\Users\Laboratorio\Documents\Visual Studio 2010\Projects\proyecto dataset\proyecto dataset\obj\x86\Debug\proyecto_dataset.main.resources
+C:\Users\Laboratorio\Documents\Visual Studio 2010\Projects\proyecto dataset\proyecto dataset\obj\x86\Debug\proyecto_dataset.buscar.resources
+C:\Users\Laboratorio\Documents\Visual Studio 2010\Projects\proyecto dataset\proyecto dataset\obj\x86\Debug\proyecto_dataset.Form3.resources
+C:\Users\Laboratorio\Documents\Visual Studio 2010\Projects\proyecto dataset\proyecto dataset\obj\x86\Debug\proyecto_dataset.Form4.resources
+C:\Users\i\Desktop\proyectos progra\proyecto dataset\proyecto dataset\bin\Debug\proyecto dataset.exe.config
+C:\Users\i\Desktop\proyectos progra\proyecto dataset\proyecto dataset\obj\x86\Debug\proyecto dataset.exe
+C:\Users\i\Desktop\proyectos progra\proyecto dataset\proyecto dataset\obj\x86\Debug\proyecto dataset.pdb
+C:\Users\i\Desktop\proyectos progra\proyecto dataset\proyecto dataset\bin\Debug\proyecto dataset.exe
+C:\Users\i\Desktop\proyectos progra\proyecto dataset\proyecto dataset\bin\Debug\proyecto dataset.pdb
+C:\Users\i\Desktop\proyectos progra\proyecto dataset\proyecto dataset\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\i\Desktop\proyectos progra\proyecto dataset\proyecto dataset\obj\x86\Debug\proyecto_dataset.buscar.resources
+C:\Users\i\Desktop\proyectos progra\proyecto dataset\proyecto dataset\obj\x86\Debug\proyecto_dataset.Form1.resources
+C:\Users\i\Desktop\proyectos progra\proyecto dataset\proyecto dataset\obj\x86\Debug\proyecto_dataset.Form2.resources
+C:\Users\i\Desktop\proyectos progra\proyecto dataset\proyecto dataset\obj\x86\Debug\proyecto_dataset.Form3.resources
+C:\Users\i\Desktop\proyectos progra\proyecto dataset\proyecto dataset\obj\x86\Debug\proyecto_dataset.Form4.resources
+C:\Users\i\Desktop\proyectos progra\proyecto dataset\proyecto dataset\obj\x86\Debug\proyecto_dataset.login.resources
+C:\Users\i\Desktop\proyectos progra\proyecto dataset\proyecto dataset\obj\x86\Debug\proyecto_dataset.main.resources
+C:\Users\i\Desktop\proyectos progra\proyecto dataset\proyecto dataset\obj\x86\Debug\proyecto_dataset.Properties.Resources.resources
+C:\Users\i\Desktop\proyectos progra\proyecto dataset\proyecto dataset\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\i\Desktop\proyectos progra\proyecto dataset\proyecto dataset\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\i\Desktop\proyectos progra\proyecto dataset\proyecto dataset\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\i\Desktop\proyectos progra\proyecto dataset\proyecto dataset\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\i\Desktop\proyectos progra\proyecto dataset\proyecto dataset\obj\x86\Debug\RdlCompile.cache
+C:\Users\i\Desktop\proyectos progra\proyecto dataset\proyecto dataset\obj\x86\Debug\RdlCompile.compiled

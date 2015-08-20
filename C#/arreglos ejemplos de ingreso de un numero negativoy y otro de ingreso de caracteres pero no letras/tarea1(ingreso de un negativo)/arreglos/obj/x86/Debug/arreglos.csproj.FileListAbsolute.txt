@@ -1,0 +1,14 @@
+E:\taller de programacion 3\C#\arreglos\arreglos\arreglos\bin\Debug\arreglos.exe
+E:\taller de programacion 3\C#\arreglos\arreglos\arreglos\bin\Debug\arreglos.pdb
+E:\taller de programacion 3\C#\arreglos\arreglos\arreglos\obj\x86\Debug\arreglos.exe
+E:\taller de programacion 3\C#\arreglos\arreglos\arreglos\obj\x86\Debug\arreglos.pdb
+G:\taller de programacion 3\C#\arreglos\arreglos\arreglos\obj\x86\Debug\arreglos.exe
+G:\taller de programacion 3\C#\arreglos\arreglos\arreglos\obj\x86\Debug\arreglos.pdb
+G:\taller de programacion 3\C#\arreglos\arreglos\arreglos\bin\Debug\arreglos.exe
+G:\taller de programacion 3\C#\arreglos\arreglos\arreglos\bin\Debug\arreglos.pdb
+G:\taller de programacion 3\C#\arreglos\arreglos\arreglos\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\taller de programacion 3\C#\arreglos\tarea1(ingreso de un negativo)\arreglos\obj\x86\Debug\arreglos.exe
+F:\taller de programacion 3\C#\arreglos\tarea1(ingreso de un negativo)\arreglos\obj\x86\Debug\arreglos.pdb
+F:\taller de programacion 3\C#\arreglos\tarea1(ingreso de un negativo)\arreglos\bin\Debug\arreglos.exe
+F:\taller de programacion 3\C#\arreglos\tarea1(ingreso de un negativo)\arreglos\bin\Debug\arreglos.pdb
+F:\taller de programacion 3\C#\arreglos\tarea1(ingreso de un negativo)\arreglos\obj\x86\Debug\ResolveAssemblyReference.cache

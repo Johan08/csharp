@@ -1,0 +1,11 @@
+C:\Users\JSM\Desktop\Nueva carpeta (2)\MDI\bin\Release\MDI.exe
+C:\Users\JSM\Desktop\Nueva carpeta (2)\MDI\bin\Release\MDI.pdb
+C:\Users\JSM\Desktop\Nueva carpeta (2)\MDI\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\JSM\Desktop\Nueva carpeta (2)\MDI\obj\x86\Release\MDI.Doctores.resources
+C:\Users\JSM\Desktop\Nueva carpeta (2)\MDI\obj\x86\Release\MDI.Form1.resources
+C:\Users\JSM\Desktop\Nueva carpeta (2)\MDI\obj\x86\Release\MDI.Properties.Resources.resources
+C:\Users\JSM\Desktop\Nueva carpeta (2)\MDI\obj\x86\Release\MDI.VerDoctores.resources
+C:\Users\JSM\Desktop\Nueva carpeta (2)\MDI\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\JSM\Desktop\Nueva carpeta (2)\MDI\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\JSM\Desktop\Nueva carpeta (2)\MDI\obj\x86\Release\MDI.exe
+C:\Users\JSM\Desktop\Nueva carpeta (2)\MDI\obj\x86\Release\MDI.pdb

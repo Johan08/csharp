@@ -1,0 +1,13 @@
+c:\users\laboratorio\documents\visual studio 2010\Projects\Ej1Matrices\Ej1Matrices\bin\Debug\Ej1Matrices.exe
+c:\users\laboratorio\documents\visual studio 2010\Projects\Ej1Matrices\Ej1Matrices\bin\Debug\Ej1Matrices.pdb
+c:\users\laboratorio\documents\visual studio 2010\Projects\Ej1Matrices\Ej1Matrices\obj\x86\Debug\Ej1Matrices.exe
+c:\users\laboratorio\documents\visual studio 2010\Projects\Ej1Matrices\Ej1Matrices\obj\x86\Debug\Ej1Matrices.pdb
+F:\Ej1Matrices\Ej1Matrices\obj\x86\Debug\Ej1Matrices.exe
+F:\Ej1Matrices\Ej1Matrices\obj\x86\Debug\Ej1Matrices.pdb
+F:\Ej1Matrices\Ej1Matrices\bin\Debug\Ej1Matrices.exe
+F:\Ej1Matrices\Ej1Matrices\bin\Debug\Ej1Matrices.pdb
+F:\Ej1Matrices\Ej1Matrices\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\taller de programacion 3\Ej1Matrices\Ej1Matrices\obj\x86\Debug\Ej1Matrices.exe
+F:\taller de programacion 3\Ej1Matrices\Ej1Matrices\obj\x86\Debug\Ej1Matrices.pdb
+F:\taller de programacion 3\C#\vENTAS(pobla, saca promedio y muestra)\Ej1Matrices\Ej1Matrices\obj\x86\Debug\Ej1Matrices.exe
+F:\taller de programacion 3\C#\vENTAS(pobla, saca promedio y muestra)\Ej1Matrices\Ej1Matrices\obj\x86\Debug\Ej1Matrices.pdb

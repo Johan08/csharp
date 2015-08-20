@@ -1,0 +1,15 @@
+C:\Users\JSM\AppData\Local\Temporary Projects\ejercicio n1\bin\Debug\ejercicio n1.exe
+C:\Users\JSM\AppData\Local\Temporary Projects\ejercicio n1\bin\Debug\ejercicio n1.pdb
+C:\Users\JSM\AppData\Local\Temporary Projects\ejercicio n1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JSM\AppData\Local\Temporary Projects\ejercicio n1\obj\x86\Debug\ejercicio n1.exe
+C:\Users\JSM\AppData\Local\Temporary Projects\ejercicio n1\obj\x86\Debug\ejercicio n1.pdb
+F:\ejercicio prueba1\ejercicio n1\ejercicio n1\obj\x86\Debug\ejercicio n1.exe
+F:\ejercicio prueba1\ejercicio n1\ejercicio n1\obj\x86\Debug\ejercicio n1.pdb
+F:\ejercicio prueba1\ejercicio n1\ejercicio n1\bin\Debug\ejercicio n1.exe
+F:\ejercicio prueba1\ejercicio n1\ejercicio n1\bin\Debug\ejercicio n1.pdb
+F:\ejercicio prueba1\ejercicio n1\ejercicio n1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JSM\Desktop\ejercicio n1\ejercicio n1\obj\x86\Debug\ejercicio n1.exe
+C:\Users\JSM\Desktop\ejercicio n1\ejercicio n1\obj\x86\Debug\ejercicio n1.pdb
+C:\Users\JSM\Desktop\ejercicio n1\ejercicio n1\bin\Debug\ejercicio n1.exe
+C:\Users\JSM\Desktop\ejercicio n1\ejercicio n1\bin\Debug\ejercicio n1.pdb
+C:\Users\JSM\Desktop\ejercicio n1\ejercicio n1\obj\x86\Debug\ResolveAssemblyReference.cache

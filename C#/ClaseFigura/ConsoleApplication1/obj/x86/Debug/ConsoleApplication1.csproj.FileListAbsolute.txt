@@ -1,0 +1,13 @@
+E:\paradigma\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\paradigma\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\paradigma\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+E:\paradigma\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\HP\Desktop\consola\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\HP\Desktop\consola\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+E:\taller de programacion 3\C#\ClaseFigura\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+E:\taller de programacion 3\C#\ClaseFigura\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+F:\taller de programacion 3\C#\ClaseFigura\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+F:\taller de programacion 3\C#\ClaseFigura\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+F:\taller de programacion 3\C#\ClaseFigura\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\taller de programacion 3\C#\ClaseFigura\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\taller de programacion 3\C#\ClaseFigura\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache

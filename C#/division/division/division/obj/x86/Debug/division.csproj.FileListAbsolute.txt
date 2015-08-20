@@ -1,0 +1,7 @@
+C:\Users\JSM\AppData\Local\Temporary Projects\division\bin\Debug\division.exe
+C:\Users\JSM\AppData\Local\Temporary Projects\division\bin\Debug\division.pdb
+C:\Users\JSM\AppData\Local\Temporary Projects\division\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JSM\AppData\Local\Temporary Projects\division\obj\x86\Debug\division.exe
+C:\Users\JSM\AppData\Local\Temporary Projects\division\obj\x86\Debug\division.pdb
+F:\taller de programacion 3\C#\division\division\division\obj\x86\Debug\division.exe
+F:\taller de programacion 3\C#\division\division\division\obj\x86\Debug\division.pdb

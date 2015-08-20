@@ -1,0 +1,18 @@
+C:\Users\Diego\AppData\Local\Temporary Projects\caracteres\bin\Debug\caracteres.exe
+C:\Users\Diego\AppData\Local\Temporary Projects\caracteres\bin\Debug\caracteres.pdb
+C:\Users\Diego\AppData\Local\Temporary Projects\caracteres\obj\x86\Debug\caracteres.exe
+C:\Users\Diego\AppData\Local\Temporary Projects\caracteres\obj\x86\Debug\caracteres.pdb
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\caracteres\caracteres\bin\Debug\caracteres.exe
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\caracteres\caracteres\bin\Debug\caracteres.pdb
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\caracteres\caracteres\obj\x86\Debug\caracteres.exe
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\caracteres\caracteres\obj\x86\Debug\caracteres.pdb
+C:\Users\JSM\Desktop\caracteres\caracteres\obj\x86\Debug\caracteres.exe
+C:\Users\JSM\Desktop\caracteres\caracteres\obj\x86\Debug\caracteres.pdb
+C:\Users\JSM\Desktop\caracteres\caracteres\bin\Debug\caracteres.exe
+C:\Users\JSM\Desktop\caracteres\caracteres\bin\Debug\caracteres.pdb
+C:\Users\JSM\Desktop\caracteres\caracteres\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\taller de programacion 3\C#\arreglos ejemplos de ingreso de un numero negativoy y otro de ingreso de caracteres pero no letras\caracteres\caracteres\obj\x86\Debug\caracteres.exe
+F:\taller de programacion 3\C#\arreglos ejemplos de ingreso de un numero negativoy y otro de ingreso de caracteres pero no letras\caracteres\caracteres\obj\x86\Debug\caracteres.pdb
+F:\taller de programacion 3\C#\arreglos ejemplos de ingreso de un numero negativoy y otro de ingreso de caracteres pero no letras\caracteres\caracteres\bin\Debug\caracteres.exe
+F:\taller de programacion 3\C#\arreglos ejemplos de ingreso de un numero negativoy y otro de ingreso de caracteres pero no letras\caracteres\caracteres\bin\Debug\caracteres.pdb
+F:\taller de programacion 3\C#\arreglos ejemplos de ingreso de un numero negativoy y otro de ingreso de caracteres pero no letras\caracteres\caracteres\obj\x86\Debug\ResolveAssemblyReference.cache

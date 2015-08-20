@@ -1,0 +1,22 @@
+E:\lota\loteria\loteria\bin\Debug\loteria.exe
+E:\lota\loteria\loteria\bin\Debug\loteria.pdb
+E:\lota\loteria\loteria\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\lota\loteria\loteria\obj\x86\Debug\loteria.exe
+E:\lota\loteria\loteria\obj\x86\Debug\loteria.pdb
+F:\lota\loteria\loteria\obj\x86\Debug\loteria.exe
+F:\lota\loteria\loteria\obj\x86\Debug\loteria.pdb
+F:\lota\loteria\loteria\bin\Debug\loteria.exe
+F:\lota\loteria\loteria\bin\Debug\loteria.pdb
+F:\lota\loteria\loteria\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\taller de programacion 3\lota\loteria\loteria\obj\x86\Debug\loteria.exe
+F:\taller de programacion 3\lota\loteria\loteria\obj\x86\Debug\loteria.pdb
+F:\taller de programacion 3\lota\loteria\loteria\bin\Debug\loteria.exe
+F:\taller de programacion 3\lota\loteria\loteria\bin\Debug\loteria.pdb
+F:\taller de programacion 3\lota\loteria\loteria\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\taller de programacion 3\lota\loteria\loteria\obj\x86\Debug\loteria.exe
+E:\taller de programacion 3\lota\loteria\loteria\obj\x86\Debug\loteria.pdb
+F:\taller de programacion 3\lota(foreach)\loteria\loteria\obj\x86\Debug\loteria.exe
+F:\taller de programacion 3\lota(foreach)\loteria\loteria\obj\x86\Debug\loteria.pdb
+F:\taller de programacion 3\lota(foreach)\loteria\loteria\bin\Debug\loteria.exe
+F:\taller de programacion 3\lota(foreach)\loteria\loteria\bin\Debug\loteria.pdb
+F:\taller de programacion 3\lota(foreach)\loteria\loteria\obj\x86\Debug\ResolveAssemblyReference.cache
